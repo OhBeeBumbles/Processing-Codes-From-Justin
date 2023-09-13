@@ -1,0 +1,16 @@
+// make the canvas bigger for the screen
+size (1000, 1000);
+scale(10); 
+
+background(255);
+
+
+line(25, 40, 90, 75); // (x1,y1) -> (x2, y2)
+
+line(50, 30, 50, 40); // (x1,y1) -> (x2, y2)
+
+line(50, 30, 50, 40); // (x1,y1) -> (x2, y2)
+
+strokeWeight(4);
+point(25, 40); // (x, y)
+point(90,75); // (x, y)

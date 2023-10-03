@@ -1,0 +1,17 @@
+void setup(){
+  size(800,800);
+  
+  // numbers
+  int age; // declaration
+  age = 25; // initialization
+  
+  printIn{"hello. i am " + age + " years old"};
+
+  printIn{"my birthday was all the way back in june"};
+  
+  age = age + 1
+}
+
+void draw(){
+
+}
